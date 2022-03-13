@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alikhan40310
+###  Hi, I’m Ali Khan 👋
 - 👀 I’m interested in finding new way to designing & developing website.
-- 🌱 I’m currently learning React & other framework.
-- 💞️ I’m looking to collaborate on different organization.
+- 🌱 I’m currently learning Vue Js & other framework.
+- 💞️ I’m looking to collaborate with different organization.
 - 📫 You can reached me below my email address⤵️
 - 📩 alikhan40310@gmail.com
 
